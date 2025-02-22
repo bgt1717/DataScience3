@@ -4,5 +4,6 @@ def greeting(name):
 person1 = {
   "name": "John",
   "age": 36,
-  "country": "Norway"
+  "country": "Norway",
+  "zip":33344
 }
